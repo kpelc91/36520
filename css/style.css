@@ -6,16 +6,13 @@ h1 {
 section {
     background-color: #faebd6;
     margin-right: 500px;
+    font-size: 26px;
 }
 
-main {
+.paragraph-one {
     color: #a42423;
 }
 
-header {
+.paragraph-two {
     color: #00008f;
-}
-
-main, header {
-    font-size: 26px;
 }
